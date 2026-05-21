@@ -36,6 +36,10 @@ Sequence Diagram
 
 ![alt text](images/seq_wiql_rest_core_pattern.jpg)
 
+Core Innovation
+
+![alt text](images/wiql_rest_batch_pipeline_core_pattern.jpg)
+
 ---
 
 ## Questions or Doubts?
