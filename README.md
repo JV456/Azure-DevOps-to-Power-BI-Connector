@@ -40,6 +40,10 @@ Core Innovation
 
 ![alt text](images/wiql_rest_batch_pipeline_core_pattern.jpg)
 
+Comparison
+
+![alt text](images/odata_vs_wiql_rest_comparison.jpg)
+
 ---
 
 ## Questions or Doubts?
