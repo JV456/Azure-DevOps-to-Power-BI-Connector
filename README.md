@@ -42,8 +42,8 @@ Sequence Diagram
 
 If you have any doubts, run into issues during implementation, or just want to discuss this architecture further, feel free to reach out to me! 
 
-LinkedIn: https://www.linkedin.com/in/jai-vadula/\
-Email: jaivadula@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jai-vadula/
+* Email: jaivadula@gmail.com
 
 ---
 
